@@ -10,21 +10,34 @@ In diesem Portfolio sind fünf datenbasierte Analyse- und Visualisierungsprojekt
 
 ### Projektübersicht
 
-- [Datenbasierte Analyse und Optimierung von Dokumenten- und Antragsprozessen](./BI_Consalding_YPohrebytska.pdf)  
-  Analyse von Bearbeitungszeiten und Prozesseffizienz im öffentlichen Dienst mit SQL und Power BI.
+https://github.com/Yana-DataAnalyst/data-analyst-portfolio/blob/main/Projekt_Data_Analyst_YPohrebytska.pdf
+- Optimierung von Dokumenten- und Antragsprozessen (SQL & Power BI)
+• Erstellung und Analyse einer relationalen Datenbank (MariaDB) mit simulierten Antragsdaten 
+• Entwicklung von SQL-Abfragen zur Auswertung von Bearbeitungszeiten, Status und Prozesskennzahlen 
+• Visualisierung der Ergebnisse in Power BI (Dashboards, KPIs) 
+• Identifikation von Engpässen und Ableitung von Optimierungsmöglichkeiten 
+• Kombination von Verwaltungserfahrung mit datenbasierter Analyse 
 
-- [Customer Churn Analyse](./Präsentation_Deutsch__Customer_Churn_Analyse.pdf)  
-  Interaktives Dashboard zur Identifikation von Ursachen für Kundenabwanderung.
 
-- [Global Sales Analyse](./Präsentation_Global_Sales_Analyse.pdf)  
-  Analyse globaler Verkaufsdaten mit Fokus auf Umsatz, Gewinn und regionale Unterschiede.
+https://github.com/Yana-DataAnalyst/data-analyst-portfolio/blob/main/Projekt%C2%AD_Logistik_Dashboard.pdf
+- In diesem Projekt habe ich eine Logistikdatenanalyse mit SQL (MariaDB) und Power BI umgesetzt. Ziel war die Analyse von Lieferprozessen, Lagerauslastung und Versanddaten.
+  Ich habe eine Datenbank erstellt, Daten modelliert und SQL-Abfragen zur Berechnung zentraler Kennzahlen entwickelt.
+  Die Ergebnisse wurden in Power BI visualisiert, um Einblicke in Effizienz, Lieferzeiten und Lagerprozesse zu gewinnen.
 
-- [Logistik Dashboard](./Projekt_Logistik_Dashboard.pdf)  
-  Analyse von Lieferprozessen und Lagerauslastung mit SQL und Power BI.
+https://github.com/Yana-DataAnalyst/data-analyst-portfolio/blob/main/Präsentation_Global%20Sales%20Analysis_YPohrebytska.pdf
+- In diesem Projekt habe ich einen globalen Verkaufsdatensatz analysiert, um Trends und Geschäftsentwicklungen zu erkennen. Die Daten wurden bereinigt, modelliert und in Power BI visualisiert.
+  Ich habe interaktive Dashboards mit Kennzahlen wie Umsatz, Gewinn und Bestellvolumen erstellt. Die Analyse umfasst Kundenverhalten, Produktleistung und regionale Unterschiede.
+  Das Dashboard ermöglicht schnelle Einblicke und unterstützt datenbasierte Entscheidungen.
 
-- [Projekt Data Analyst](./Projekt_Data_Analist_YPohrebytska.pdf)  
-  Verschiedene datenbasierte Analysen und Visualisierungen zur Unterstützung von Geschäftsentscheidungen.
-
+https://github.com/Yana-DataAnalyst/data-analyst-portfolio/blob/main/Präsentation_Deutsch__Customer%20Churn_YPohrebytska.pdf
+- In diesem Projekt wurde das Kundenabwanderungsverhalten eines Telekommunikationsunternehmens analysiert, um die Hauptursachen für Churn zu identifizieren.
+  Mit Power BI wurde ein interaktives Dashboard erstellt, das Zusammenhänge zwischen Vertragsarten, Zahlungsmethoden und Kundenverhalten zeigt.
+  Die Analyse zeigt, dass kurzfristige Verträge und Serviceprobleme die Abwanderung erhöhen. Das Projekt unterstützt datenbasierte Entscheidungen zur Kundenbindung.
+ 
+https://github.com/Yana-DataAnalyst/data-analyst-portfolio/blob/main/BI_Consalding_YPohrebytska.pdf
+- In diesem Projekt habe ich eine BI-Consulting-Simulation durchgeführt, mit dem Ziel, die Transparenz und Effizienz in Logistikprozessen zu verbessern.
+  Es wurden zentrale KPIs wie Lieferzeit, Lagerauslastung und Pünktlichkeitsquote definiert sowie Anforderungen aus verschiedenen Datenquellen (ERP- und Warehouse-Systeme) analysiert.
+  Ein besonderer Fokus lag auf der Übersetzung von Business-Anforderungen in technische Lösungen sowie auf der Entwicklung verständlicher Dashboards
 ---
 
 Vielen Dank für Ihr Interesse!
